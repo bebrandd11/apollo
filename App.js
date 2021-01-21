@@ -26,6 +26,7 @@ const App = () => {
               <Text> {item.currency}</Text>
               <Text> {item.rate}</Text>
               <Text> {item.name}</Text>
+              <View/>
             </View>
           )
         }}
